@@ -5,12 +5,12 @@
 
 ## Screenshots
 
-<img src="/ab(1).png" />
+<img src="/ab1.png" />
 
-<img src="/ab(2).png" />
+<img src="/ab2.png" />
 
 
 ## Contributing
 
-Pull requests are welcome. 🤝 For major changes, please open an issue first to discuss what you would like to change. 🙏
+###### Pull requests are welcome. 🤝 For major changes, please open an issue first to discuss what you would like to change. 🙏
 
