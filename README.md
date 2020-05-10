@@ -5,9 +5,9 @@
 
 ## Screenshots
 
-<img src="/ab1.png" />
+<img src="/ab1.PNG" />
 
-<img src="/ab2.png" />
+<img src="/ab2.PNG" />
 
 
 ## Contributing
